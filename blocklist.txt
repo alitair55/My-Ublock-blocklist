@@ -1,0 +1,9 @@
+||grok.com^$script
+||grok.com^$xhr
+||grok.com^$inline-script
+||grok.com^$frame
+||sefan.ru^$script
+||sefan.ru^$xhr
+||sefan.ru^$inline-script
+||sefan.ru^$frame
+||porno666^

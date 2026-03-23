@@ -1,3 +1,7 @@
+# Title: hostsVN Adult VN
+# Description: test
+# Expires: 1 day
+
 ||grok.com^$script
 ||grok.com^$xhr
 ||grok.com^$inline-script

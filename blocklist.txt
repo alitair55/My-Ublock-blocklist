@@ -16,8 +16,7 @@
 ||aguea.net^
 ||aiuncensored.info^
 ||alice.yandex.ru^
-||allsexxx.top^
-||allsexxx^
+||allsexxx
 ||alphaporno.com^
 ||alphazria.com^
 ||anony.men^
@@ -37,8 +36,7 @@
 ||bigroot.ru^
 ||bing.net^
 ||blackle.com^
-||blockaway.com^
-||blockaway.org^
+||blockaway
 ||bondage-bor.narod.ru^
 ||bot-responder-eu-shdxwd54ta-nw.a.run.app^
 ||bot-service-us1-shdxwd54ta-uc.a.run.app^
@@ -67,8 +65,7 @@
 ||costfreezone.com^
 ||croxy.com^
 ||croxy.info^
-||croxyproxy.blog^
-||croxyproxy.cloud^
+||croxyproxy
 ||crushon.ai^
 ||dailybase.com^
 ||dailystar.co.uk^
@@ -77,8 +74,7 @@
 ||dtf.ru^
 ||e1nn.com^
 ||ebayimg.com^
-||eboseks.one^
-||eboseks^
+||eboseks
 ||emdigital.ru^
 ||emochi.app^
 ||emochi.com^
@@ -157,8 +153,7 @@
 ||loveon.chat^
 ||lovestories.name^
 ||lusychat.ai^
-||m.porno365.training^
-||m.porno365^
+||porno365
 ||m.proxy.al^
 ||m.sexkoma.vip^
 ||m.xtales.top^
@@ -191,8 +186,7 @@
 ||obvm.ru^
 ||ok2.vercel.app^
 ||onlinevpn.app^
-||onlyporno.online^
-||onlyporno^
+||onlyporno
 ||ootn.nv7s.com^
 ||optbit.org^
 ||optbit.ru^
@@ -216,12 +210,10 @@
 ||polyspeak.ai^
 ||pop.xxx^
 ||porkahd.link^
-||porno365x.space^
-||porno365x^
+||porno365
 ||porno-666.com^
 ||porno666^
-||pornocast.best^
-||pornocast^
+||pornocast
 ||pornodnevnik.ru^
 ||pornofisting.online^
 ||porno-history.ru^
@@ -229,8 +221,7 @@
 ||pornorasskazov.ru^
 ||porno-rasskazy.ru^
 ||porno-stories.ru^
-||pornozrelie.store^
-||pornozrelie^
+||pornozrelie
 ||porntales.ru^
 ||presearch.com^
 ||privet-client.ru^
@@ -264,8 +255,7 @@
 ||rukink.com^
 ||russcarfbondage.org^
 ||rustops.one^
-||s.2bigboss.top^
-||s.2bigboss^
+||2bigboss
 ||s.bdsm-porevo.in^
 ||s3.xxxvideoserver.com^
 ||sakura.fm^
@@ -287,7 +277,6 @@
 ||sextale.me^
 ||sexytext.ru^
 ||shfoto.ru^
-||shpok.best^
 ||shpok.best^
 ||shutterstock.com^
 ||sisi-love.live^
@@ -410,8 +399,7 @@
 ||ya1.ebun.one^
 ||yabalovo.best^
 ||yablor.ru^
-||yalenkino.click^
-||yalenkino.org^
+||yalenkino
 ||yaplakal.com^
 ||yaskrava.net^
 ||yaznal.com^
@@ -469,11 +457,10 @@
 ||m.fapzenda.live^
 ||m.yabuchka.org^
 ||ru.pornsok.info^
-||pornxp.vip^
+||pornxp
 ||mob.slavnoe.click^
 ||mombm2.com^
 ||josporno.com^
-||pornxp.gy^
 ||x.rus-ozvuchka.com^
 ||xn--80aab1bxi.com^
 ||porno365-legal.ru^
@@ -500,5 +487,3 @@
 ||m.porevohd.net^
 ||sex-vid.mom^
 ||eporner-new.com^
-||ria
-||imgbox.com^

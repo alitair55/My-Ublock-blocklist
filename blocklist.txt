@@ -78,7 +78,6 @@
 ||emdigital.ru^
 ||emochi.app^
 ||emochi.com^
-||encrypted-tbn0.gstatic.com^
 ||eroto4ka.vip^
 ||etales.ru^
 ||etotoper.link^
@@ -357,7 +356,6 @@
 ||wapsekas.com^
 ||w-dog.ru^
 ||wecanunblock.com^
-||windows.net^
 ||wlmyaps.github.io^
 ||workingproxysites.com^
 ||wsup.ai^

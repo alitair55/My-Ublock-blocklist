@@ -505,3 +505,7 @@
 ||images.newsru.co.il^
 ||static.webcafe.bg^
 ||dream-casting-database-dcdb.fandom.com^
+||puskai.ru^
+||anonstory.ru^
+||likelife.ru^
+||rasskaz.bluesystem.me^

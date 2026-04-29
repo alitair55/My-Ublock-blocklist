@@ -1,6 +1,6 @@
 # Description: test
 # Expires: 1 day
-# Title: hostsVN Adult VN
+# Title: My blocklist
 
 ||123rf.com^
 ||18story.ru^
@@ -509,3 +509,7 @@
 ||anonstory.ru^
 ||likelife.ru^
 ||rasskaz.bluesystem.me^
+||romantic-blog.ru^
+||bodhizazen.org^
+||35photo.pro^
+||bugfun.site^

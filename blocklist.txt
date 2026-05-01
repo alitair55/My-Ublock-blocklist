@@ -514,3 +514,6 @@
 ||35photo.pro^
 ||bugfun.site^
 ||www.qwant.com^
+||likelife.ru^
+||seekly-zone.s1search.co^
+||seekly.zone^

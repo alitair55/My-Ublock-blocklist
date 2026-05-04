@@ -517,3 +517,4 @@
 ||likelife.ru^
 ||seekly-zone.s1search.co^
 ||seekly.zone^
+||hard-tm.su^

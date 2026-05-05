@@ -515,7 +515,6 @@
 ||seekly.zone^
 ||hard-tm.su^
 ||shedevrum.ai^
-||m.media-amazon.com^
 ||nacion.ru^
 ||shiryaeva-photo.ru^
 ||media.gettyimages.com^

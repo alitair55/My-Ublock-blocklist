@@ -102,10 +102,6 @@
 ||go5.kiski.top^
 ||gov.yandex.org.kz^
 ||grok.com^
-||grok.com^$frame
-||grok.com^$inline-script
-||grok.com^$script
-||grok.com^$xhr
 ||grupbul.com^
 ||hebus.com^
 ||hidefromyou.com^
@@ -518,3 +514,12 @@
 ||seekly-zone.s1search.co^
 ||seekly.zone^
 ||hard-tm.su^
+||shedevrum.ai^
+||m.media-amazon.com^
+||nacion.ru^
+||shiryaeva-photo.ru^
+||media.gettyimages.com^
+||cdn-images.dzcdn.net^
+||thumbs.dreamstime.com^
+||chai-user-service-65663778556.us-central1.run.app^
+||us-central1-chai-959f8.cloudfunctions.net^

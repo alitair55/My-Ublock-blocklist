@@ -462,7 +462,6 @@
 ||us1-web.getbehind.me^
 ||us-central1-chai-959f8.cloudfunctions.net^
 ||us-central1-chai-959f8.cloudfunctions.net^
-||utdstc.com^
 ||venexa.site^
 ||vernice.ru^
 ||video.ebalka.today^

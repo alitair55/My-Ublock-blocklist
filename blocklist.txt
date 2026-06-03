@@ -654,3 +654,7 @@
 ||garnashadow.wordpress.com^
 ||rompik.com^
 ||gravitsky.ru^
+||de.search.yahoo.com^
+||sun9-63.userapi.com^
+||filmnavi.ru^
+||search.yahoo.com^

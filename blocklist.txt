@@ -75,7 +75,7 @@
 ||chat.hackaigc.com^
 ||chpoker.life^
 ||chpoker.life^
-||chromewebstore.google.com^
+# ||chromewebstore.google.com^
 ||clips.5porno.loan^
 ||cn2.aguea.net^
 ||cojo.ru^

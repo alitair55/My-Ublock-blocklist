@@ -657,3 +657,4 @@
 ||sun9-63.userapi.com^
 ||filmnavi.ru^
 ||search.yahoo.com^
+||artfileme.ru^

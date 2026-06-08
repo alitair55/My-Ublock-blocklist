@@ -132,7 +132,7 @@
 ||formayfuerza.com^
 ||fotodao.ru^
 ||freewebproxy.cloud^
-# ||gemini.google.com^
+||gemini.google.com^
 ||gettywallpapers.com^
 ||girlfriendly.ai^
 ||go5.kiski.top^
@@ -466,6 +466,7 @@
 ||video.ebalka.today^
 ||video-laba.online^
 ||vilf.ru^
+||vilf.net^
 ||virtual.porn^
 ||vk.com^
 ||vkuserphoto.ru^
@@ -660,3 +661,7 @@
 ||artfileme.ru^
 ||thenewsgod.com^
 ||i.okcdn.ru^
+||i.cdn01.ru^
+||p4.wallpaperbetter.com^
+||www.wallpaperbetter.com^
+||insanebiography.com^

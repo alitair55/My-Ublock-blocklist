@@ -132,7 +132,7 @@
 ||formayfuerza.com^
 ||fotodao.ru^
 ||freewebproxy.cloud^
-||gemini.google.com^
+# ||gemini.google.com^
 ||gettywallpapers.com^
 ||girlfriendly.ai^
 ||go5.kiski.top^

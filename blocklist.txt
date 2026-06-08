@@ -658,3 +658,5 @@
 ||filmnavi.ru^
 ||search.yahoo.com^
 ||artfileme.ru^
+||thenewsgod.com^
+||i.okcdn.ru^

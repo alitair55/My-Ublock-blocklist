@@ -674,3 +674,8 @@
 ||www.qwant.com^
 ||www.mojeek.com^
 ||swisscows.com^
+||www.ecosia.org^
+||www.scribd.com^
+||www.dogpile.com^
+||yep.com^
+||www.flickr.com^

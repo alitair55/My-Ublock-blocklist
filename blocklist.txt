@@ -671,3 +671,6 @@
 ||cosphoria.co^
 ||www.100searchengines.com^
 ||search.yahoo.co.jp^
+||www.qwant.com^
+||www.mojeek.com^
+||swisscows.com^

@@ -679,3 +679,7 @@
 ||www.dogpile.com^
 ||yep.com^
 ||www.flickr.com^
+||europe.google.com^
+||asia.google.com^
+||chpoking.ru^
+||sex0.sexnsk.run^

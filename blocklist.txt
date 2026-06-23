@@ -688,3 +688,4 @@
 ||duckduckgo.com^
 ||www.l.google.com^
 ||wap.mobilemax.ru^
+||ipv4.google.com^

@@ -690,3 +690,6 @@
 ||wap.mobilemax.ru^
 ||ipv4.google.com^
 ||proxyoku.com^
+||learnbridge.institute^
+||coproxy.io^
+||wproxy.net^

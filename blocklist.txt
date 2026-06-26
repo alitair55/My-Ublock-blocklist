@@ -693,3 +693,6 @@
 ||learnbridge.institute^
 ||coproxy.io^
 ||wproxy.net^
+||www.proxylite.com^
+||omegaproxy^
+||myiphide.com^

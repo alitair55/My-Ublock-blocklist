@@ -709,3 +709,4 @@
 ||sex.myspree.club^
 ||spreee.name^
 ||sex.spreee.name^
+||search.daum.net^

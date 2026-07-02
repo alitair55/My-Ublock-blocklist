@@ -696,3 +696,4 @@
 ||www.proxylite.com^
 ||omegaproxy^
 ||myiphide.com^
+||arinafox.fans^

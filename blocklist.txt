@@ -468,7 +468,7 @@
 ||vilf.ru^
 ||vilf.net^
 ||virtual.porn^
-||vk.com^
+#||vk.com^
 ||vkuserphoto.ru^
 ||vkvideo.ru^
 ||vmateai.com^

@@ -710,3 +710,7 @@
 ||spreee.name^
 ||sex.spreee.name^
 ||search.daum.net^
+||www.goodwebproxy.com^
+||www.alltheproxies.com^
+||www.shopdaniellerenae.com^
+||www.huffpost.com^

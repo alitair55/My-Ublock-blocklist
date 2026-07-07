@@ -1,17 +1,11 @@
 # Description: test
 # Expires: 1 day
 # Title: My blocklist
-||18story.ru^
-||1q.pics^
 ||2000foto.ru^
-||24video.online^
 ||2ip.io^
 ||2ip.ru^
 ||35photo.pro^
-||7q.pics^
 ||911proxy.com^
-||9gag.com^
-||a.russkaya-ozvuchka.com^
 ||accounts.x.ai^
 ||acilucakkargo.info^
 ||aguea.net^
@@ -252,11 +246,6 @@
 ||melodymynx.com^
 ||mensby.com^
 ||mensby.com^
-||milfa4.com^
-||milfmomsex.com^
-||milfs30.com^
-||milfspornpics.com^
-||minhafilhavemca.com^
 ||miniapps.ai^
 ||missav01.com^
 ||mmoapi.com^
@@ -531,11 +520,7 @@
 ||vq50.com^
 ||vsemidea.ru^
 ||vsephoto.ru^
-||w.24x-xx.com^
-||w.yapornobit.mobi^
-||w.yaru-xvideos.org^
 ||w.yataki-taki.org^
-||w2.huyalkino.com^
 ||wakefrogs.com^
 ||wallhaven.cc^
 ||wallhere.com^
@@ -554,8 +539,6 @@
 ||workingproxysites.com^
 ||wproxy.net^
 ||wsup.ai^
-||ww.sweetpornos.com^
-||wwv.bestzzporno.lol^
 ||wwv4.com^
 ||www.100searchengines.com^
 ||www.alltheinternet.com^
@@ -576,12 +559,6 @@
 ||www.goodfon.ru^
 ||www.goodwebproxy.com^
 ||www.goofram.com^
-||www.hotmilfmom.com^
-||www.hotmilfmoms.com^
-||www.hotmilfpornpics.com^
-||www.hotmilfsexpics.com^
-||www.hotmilftits.com^
-||www.hotnudemilf.com^
 ||www.huffpost.com^
 ||www.indianaccess.com^
 ||www.kadama.com^
@@ -590,16 +567,8 @@
 ||www.listal.com^
 ||www.lumiproxy.com^
 ||www.marizavillarreal.com^
-||www.matureboobspics.com^
-||www.maturemilfmom.com^
-||www.maturemilfspics.com^
 ||www.maximonline.ru^
 ||www.metaeureka.com^
-||www.milfmomspictures.com^
-||www.milfmomspussy.com^
-||www.milfpornphotos.com^
-||www.milfpornpics.com^
-||www.milfsextubes.com^
 ||www.mojeek.com^
 ||www.nicshea.com^
 ||www.nudemilfpussy.com^
@@ -666,3 +635,4 @@
 ||vanlett.com^
 ||3hattergrindhouse.com^
 ||findfreeproxies.com^
+||www.daniellerenae.online^

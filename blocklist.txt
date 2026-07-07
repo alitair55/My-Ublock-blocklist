@@ -1,11 +1,15 @@
 # Description: test
 # Expires: 1 day
 # Title: My blocklist
+
+||123rf.com^
 ||2000foto.ru^
 ||2ip.io^
 ||2ip.ru^
 ||35photo.pro^
+||3hattergrindhouse.com^
 ||911proxy.com^
+||9gag.com^
 ||accounts.x.ai^
 ||acilucakkargo.info^
 ||aguea.net^
@@ -124,6 +128,7 @@
 ||ficbook.net^
 ||filesor.com^
 ||filmnavi.ru^
+||findfreeproxies.com^
 ||fishki.net^
 ||flave.ai^
 ||flipped.chat^
@@ -132,6 +137,8 @@
 ||formayfuerza.com^
 ||fotodao.ru^
 ||freenude.io^
+||freewebproxy.cloud^
+||garnashadow.wordpress.com^
 ||gemini.google.com^
 ||gettywallpapers.com^
 ||girlfriendly.ai^
@@ -504,6 +511,7 @@
 ||us1-web.getbehind.me^
 ||us-central1-chai-959f8.cloudfunctions.net^
 ||v4.mangahub.one^
+||vanlett.com^
 ||venexa.site^
 ||vernice.ru^
 ||video.ebalka.today^
@@ -547,6 +555,7 @@
 ||www.charaxai.com^
 ||www.clicklesbian.com^
 ||www.croxyproxycom.com^
+||www.daniellerenae.online^
 ||www.dogpile.com^
 ||www.dornopomidorno.net^
 ||www.ecosia.org^
@@ -629,10 +638,3 @@
 ||zrelkii.net^
 ||zrelkiii.me^
 ||фб2.рф^
-||freewebproxy.cloud^
-||garnashadow.wordpress.com^
-||123rf.com^
-||vanlett.com^
-||3hattergrindhouse.com^
-||findfreeproxies.com^
-||www.daniellerenae.online^

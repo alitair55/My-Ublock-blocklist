@@ -614,3 +614,7 @@
 ||grokipedia.com^
 ||www.bjjly.com^
 ||every-holiday.com^
+||galeri.uludagsozluk.com^
+||ok.ru^
+||modelnyeagentstva.com^
+||almode.club^

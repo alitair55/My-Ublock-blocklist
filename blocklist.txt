@@ -370,7 +370,6 @@
 ||ps1-comix666-1.cfz.one^
 ||puskai.ru^
 ||qmamu.com^
-# ||qwen.ai^
 ||radiolubreg.ru^
 ||rasskaz.bluesystem.me^
 ||razdelfoto.ru^

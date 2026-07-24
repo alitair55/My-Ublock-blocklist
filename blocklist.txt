@@ -505,6 +505,7 @@
 ||us-central1-chai-959f8.cloudfunctions.net^
 ||v4.mangahub.one^
 ||vanlett.com^
+||vanlett.net^
 ||venexa.site^
 ||vernice.ru^
 ||video-laba.online^
@@ -632,7 +633,10 @@
 ||sun6-21.userapi.com^
 ||gerna.eu^
 ||www.starhit.ru^
+||jb5.ru^
 ||all-celeb2.blogspot.com^
 ||blogger.googleusercontent.com^
 ||xx-centure.com.ua^
 ||wallpapers.99px.ru^
+||www.ynot.com^
+||img.ebacdn.com^

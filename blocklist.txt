@@ -514,6 +514,7 @@
 ||vk.com^
 ||vkuserphoto.ru^
 ||vkvideo.ru^
+||vk.ru^
 ||vmateai.com^
 ||voicegf.com^
 ||vps402.strip2.co^
@@ -625,6 +626,12 @@
 ||cenznet.com^
 ||xx-football.com^
 ||blogspot.com^
+||viktoriafoto.org^
+||dudjob.com^
+||artovrag.com^
+||sun6-21.userapi.com^
+||gerna.eu^
+||www.starhit.ru^
 ||all-celeb2.blogspot.com^
 ||blogger.googleusercontent.com^
 ||xx-centure.com.ua^

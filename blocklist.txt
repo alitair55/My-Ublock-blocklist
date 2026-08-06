@@ -447,3 +447,5 @@
 ||www.usmagazine.com^
 ||ya-izvesten.ru^
 ||35awards.com^
+||www.stackfront.xyz^
+||yandex.tm^

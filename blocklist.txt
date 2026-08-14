@@ -503,7 +503,13 @@
 ||beautifultopmodel.wordpress.com^
 ||conceptfoto.net^
 ||www.dontblockme.org^
-||oxandax.ru
+||oxandax.ru^
+||www.phoenix-marie.com^
+||www.bellazon.com^
+||imagesbase.ru^
+||live.staticflickr.com^
+||www.lingerielowdown.com^
+||similarpersons.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

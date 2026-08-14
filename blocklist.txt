@@ -510,6 +510,7 @@
 ||live.staticflickr.com^
 ||www.lingerielowdown.com^
 ||similarpersons.com^
+||neolurk.org^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

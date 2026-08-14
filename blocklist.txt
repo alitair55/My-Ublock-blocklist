@@ -503,3 +503,6 @@
 ||beautifultopmodel.wordpress.com^
 ||conceptfoto.net^
 ||www.dontblockme.org^
+||oxandax.ru
+@@||id.vk.com^
+@@||id.vk.ru^

@@ -506,3 +506,4 @@
 ||oxandax.ru
 @@||id.vk.com^
 @@||id.vk.ru^
+@@login.vk.ru^

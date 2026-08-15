@@ -511,6 +511,11 @@
 ||www.lingerielowdown.com^
 ||similarpersons.com^
 ||neolurk.org^
+||celebrity.theseobuck.com^
+||luxurybeachresorts.net^
+||www.sotwe.com^
+||inklove.mx^
+||urlebird.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

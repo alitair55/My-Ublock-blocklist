@@ -520,6 +520,7 @@
 ||arekore.co^
 ||www.sotwe.com^
 ||tone-rs.com^
+||morganaresort.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

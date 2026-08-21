@@ -521,6 +521,11 @@
 ||www.sotwe.com^
 ||tone-rs.com^
 ||morganaresort.com^
+||jkwbis.com^
+||www.helphideme.com^
+||www.newproxies.net^
+||www.proxville.com^
+||proxfree.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

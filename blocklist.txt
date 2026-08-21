@@ -516,6 +516,10 @@
 ||www.sotwe.com^
 ||inklove.mx^
 ||urlebird.com^
+||randfriend.com^
+||arekore.co^
+||www.sotwe.com^
+||tone-rs.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

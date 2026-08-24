@@ -536,6 +536,8 @@
 ||www.thevoicemag.ru^
 ||kendra-sunderland.com^
 ||citylife.capetown^
+||quintaesenciahuasca.com.mx^
+||www.google.co.jp^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

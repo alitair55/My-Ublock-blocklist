@@ -535,6 +535,7 @@
 ||www.womenfitness.net^
 ||www.thevoicemag.ru^
 ||kendra-sunderland.com^
+||citylife.capetown^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

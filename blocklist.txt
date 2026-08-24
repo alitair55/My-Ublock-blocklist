@@ -526,6 +526,8 @@
 ||www.newproxies.net^
 ||www.proxville.com^
 ||proxfree.com^
+||www.performerpedia.com^
+||basement-bar.net^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

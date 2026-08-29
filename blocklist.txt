@@ -558,6 +558,9 @@
 ||static.life.ru^
 ||donfond.com^
 ||www.sapphirefoxx.com^
+||mozilla.net^
+||trashbox.ru^
+||maheirqx.cyou^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

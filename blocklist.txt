@@ -546,6 +546,9 @@
 ||sliv-blogersh.com^
 ||sliv-strimersh.com^
 ||smotrix.ru^
+||ivy-lebelle.com^
+||plastilinarte.org^
+||www.adulttheculture.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

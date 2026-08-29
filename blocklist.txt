@@ -541,6 +541,11 @@
 ||daryj.com^
 ||i0.wp.com^
 ||festivalwork.de^
+||yap.ru^
+||worldmysteries.tv^
+||sliv-blogersh.com^
+||sliv-strimersh.com^
+||smotrix.ru^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

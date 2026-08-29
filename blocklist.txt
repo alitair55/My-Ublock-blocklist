@@ -549,6 +549,15 @@
 ||ivy-lebelle.com^
 ||plastilinarte.org^
 ||www.adulttheculture.com^
+||markhewittphotography.co.uk^
+||sillanumsoft.com^
+||flawlessmirrors.com^
+||dreamlash.net^
+||onlypro.life^
+||screenshots.tkcdn1.com^
+||static.life.ru^
+||donfond.com^
+||www.sapphirefoxx.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

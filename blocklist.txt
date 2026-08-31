@@ -561,6 +561,17 @@
 ||mozilla.net^
 ||trashbox.ru^
 ||maheirqx.cyou^
+||unblockproxy.win^
+||us5.freeproxy.win^
+||us4.unblockproxy.win^
+||us6.freeproxy.win^
+||freeproxy.win^
+||proxysite.one^
+||unblockyoutube.video^
+||www.proxy-youtube.com^
+||www.proxy-site.net^
+||proxy.vpn.asia^
+||us7.proxysite.one^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

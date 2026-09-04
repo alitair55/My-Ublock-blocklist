@@ -548,7 +548,6 @@
 ||smotrix.ru^
 ||ivy-lebelle.com^
 ||plastilinarte.org^
-||www.adulttheculture.com^
 ||markhewittphotography.co.uk^
 ||sillanumsoft.com^
 ||flawlessmirrors.com^
@@ -584,6 +583,18 @@
 ||proxypal.net^
 ||www.steganos.com^
 ||weboproxy.com^
+||aproxy.com^
+||proxyorb.com^
+||proxyium.com^
+||webproxy.eu.org^
+||pixfeast.com^
+||hotrustars.com^
+||inceststory.net^
+||nextero.top^
+||goliejopki.xyz^
+||bukvoeb.org^
+||e.mamki-x.com^
+||s.bdsm-porevo.in^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

@@ -595,6 +595,8 @@
 ||bukvoeb.org^
 ||e.mamki-x.com^
 ||s.bdsm-porevo.in^
+||www.proxyarab.com^
+||freevpn.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

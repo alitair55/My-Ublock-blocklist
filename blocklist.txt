@@ -624,6 +624,10 @@
 ||croctravel.com^
 ||cdn.tsyndicate.com^
 ||tsyndicate.com^
+||hinditrendz.in^
+||w260907.yabalovo.best^
+||snimika.com^
+||ictic.sk^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

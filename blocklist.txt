@@ -628,6 +628,9 @@
 ||w260907.yabalovo.best^
 ||snimika.com^
 ||ictic.sk^
+||zzrelki.click^
+||freevpn.com^
+||www.proxyarab.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

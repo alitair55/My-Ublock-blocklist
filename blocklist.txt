@@ -631,6 +631,14 @@
 ||zzrelki.click^
 ||freevpn.com^
 ||www.proxyarab.com^
+||stabhi.com^
+||noobtheloser.com^
+||hollywood-actors.ru^
+||www.kittykristen.com^
+||jeremylarsonmusic.com^
+||t7.pics^
+||f0.pics^
+||me-center.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

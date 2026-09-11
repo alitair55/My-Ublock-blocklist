@@ -642,6 +642,7 @@
 ||t7.pics^
 ||f0.pics^
 ||me-center.com^
+||rusosky.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

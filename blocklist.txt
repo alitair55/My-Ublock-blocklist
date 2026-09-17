@@ -668,6 +668,10 @@
 ||bottlebox.beer^
 ||century-composites.com^
 ||ntanews24.tv^
+||mkjwn.com^
+||kegsandcorksfest.com^
+||murciamola.com^
+||goonersimps.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

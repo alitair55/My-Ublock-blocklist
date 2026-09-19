@@ -672,6 +672,9 @@
 ||kegsandcorksfest.com^
 ||murciamola.com^
 ||goonersimps.com^
+||jamesmegastore.com^
+||free-proxy-list.net^
+||hideproxy.me^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

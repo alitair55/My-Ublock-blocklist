@@ -675,6 +675,9 @@
 ||jamesmegastore.com^
 ||free-proxy-list.net^
 ||hideproxy.me^
+||plants-creative-landscapes.com^
+||www.modelarea.com^
+||noviikanat.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

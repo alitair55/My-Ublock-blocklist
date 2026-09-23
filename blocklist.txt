@@ -678,6 +678,7 @@
 ||plants-creative-landscapes.com^
 ||www.modelarea.com^
 ||noviikanat.com^
+||lg.slyclub.life^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

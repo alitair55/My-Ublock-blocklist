@@ -683,6 +683,7 @@
 ||classicrock1045.com^
 ||goryachie-photo.net^
 ||pokelevel.com^
+||w260923.yalenkino.org^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

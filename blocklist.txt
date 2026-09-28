@@ -688,6 +688,10 @@
 ||modelwhispers.com^
 ||otosection.com^
 ||bunkr.tv^
+||www.themoviedb.org^
+||foto.babatop.org^
+||v.подгляд.com^
+||russkoeporevo24.pics^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

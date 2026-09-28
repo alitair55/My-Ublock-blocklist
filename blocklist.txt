@@ -692,6 +692,7 @@
 ||foto.babatop.org^
 ||v.подгляд.com^
 ||russkoeporevo24.pics^
+||pic2.me^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

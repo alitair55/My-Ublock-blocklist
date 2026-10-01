@@ -342,7 +342,7 @@
 ||sun6-21.userapi.com^
 ||sun9-63.userapi.com^
 ||swisscows.com^
-||t.me^
+# ||t.me^
 ||t.wap-z.xyz^
 ||tel.yandex.by^
 ||telegai.com^

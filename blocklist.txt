@@ -707,6 +707,14 @@
 ||proxysite.cc^
 ||freeproxy.io^
 ||white55.ru^
+||foto.papik.pro^
+||flintprint.by^
+||classicrock1045.com^
+||rachelrampage.com^
+||zaxodi.ru^
+||nacconference.com^
+||photobooth.cdn.sports.ru^
+||nacconference.com^
 @@||id.vk.com^
 @@||id.vk.ru^
 @@login.vk.ru^

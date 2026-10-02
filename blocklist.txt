@@ -2,6 +2,9 @@
 # Expires: 1 day
 # Title: My blocklist
 
+@@||id.vk.com^
+@@||id.vk.ru^
+@@login.vk.ru^
 ||123rf.com^
 ||2ip.io^
 ||2ip.ru^
@@ -715,6 +718,6 @@
 ||nacconference.com^
 ||photobooth.cdn.sports.ru^
 ||nacconference.com^
-@@||id.vk.com^
-@@||id.vk.ru^
-@@login.vk.ru^
+||proxysite.com^
+||eu15.proxysite.com^
+||us13.proxysite.com^

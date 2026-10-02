@@ -721,3 +721,5 @@
 ||proxysite.com^
 ||eu15.proxysite.com^
 ||us13.proxysite.com^
+||us6.proxysite.com^
+||www.proxysite.com^

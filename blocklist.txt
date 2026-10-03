@@ -723,3 +723,5 @@
 ||us13.proxysite.com^
 ||us6.proxysite.com^
 ||www.proxysite.com^
+||kwv-wines.com^
+||m.sobaka.ru^

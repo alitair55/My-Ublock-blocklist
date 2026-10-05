@@ -725,3 +725,4 @@
 ||www.proxysite.com^
 ||kwv-wines.com^
 ||m.sobaka.ru^
+||www.lokiproxy.com^

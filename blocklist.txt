@@ -726,3 +726,5 @@
 ||kwv-wines.com^
 ||m.sobaka.ru^
 ||www.lokiproxy.com^
+||world84.spcs.bio^
+||fp.spac.me^

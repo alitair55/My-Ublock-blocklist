@@ -716,8 +716,6 @@
 ||rachelrampage.com^
 ||zaxodi.ru^
 ||nacconference.com^
-||photobooth.cdn.sports.ru^
-||nacconference.com^
 ||proxysite.com^
 ||eu15.proxysite.com^
 ||us13.proxysite.com^

@@ -20,7 +20,7 @@
 ||accounts.x.ai^
 ||actris.org^
 ||aguea.net^
-||alice.yandex.ru^
+#||alice.yandex.ru^
 ||all-celeb2.blogspot.com^
 ||alliya.ru^
 ||almode.club^

@@ -119,7 +119,7 @@
 ||datingscammer.info^
 ||de.search.yahoo.com^
 ||deadlylaugh.ru^
-||deepseek.com^
+#||deepseek.com^
 ||desu.uno^
 ||donfond.com^
 ||dosuga.net^

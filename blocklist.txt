@@ -179,7 +179,7 @@
 ||galeri.uludagsozluk.com^
 ||gamifi.gg^
 ||garnashadow.wordpress.com^
-||gemini.google.com^
+#||gemini.google.com^
 ||gensim.org^
 ||georghaderer.com^
 ||gerna.eu^

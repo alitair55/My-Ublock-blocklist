@@ -595,7 +595,7 @@
 ||vilf.ru^
 ||virtual.porn^
 ||vk.com^
-||vk.ru^
+#||vk.ru^
 ||vkuserphoto.ru^
 ||vkvideo.ru^
 ||vsememy.ru^

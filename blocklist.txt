@@ -20,7 +20,7 @@
 ||accounts.x.ai^
 ||actris.org^
 ||aguea.net^
-#||alice.yandex.ru^
+||alice.yandex.ru^
 ||all-celeb2.blogspot.com^
 ||alliya.ru^
 ||almode.club^
@@ -768,3 +768,6 @@
 ||foto.devkis.net^
 ||russkoe365.me^
 ||ohuman.net^
+||www.kobbler.rs^
+||2ch.org^
+||gamifi.gg^

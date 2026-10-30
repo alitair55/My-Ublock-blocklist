@@ -793,3 +793,6 @@
 ||mirtesen.ru^
 ||foxyalex.com^
 ||lickingnonvanilla.wordpress.com^
+||zipper.pk^
+||art.hotbaba.org^
+||soset.net^

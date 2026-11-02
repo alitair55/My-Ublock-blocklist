@@ -800,3 +800,5 @@
 ||models.ceamgandia.es^
 ||c0.pics^
 ||18story.ru^
+||comics.services^
+||onlymegafans.com^

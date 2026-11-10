@@ -822,3 +822,4 @@
 ||boardreader.com^
 ||letsearch.ru^
 ||www.seznam.cz^
+||go.vaginke.fyi^

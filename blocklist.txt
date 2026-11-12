@@ -785,7 +785,7 @@
 ||russkoe365.me^
 ||scontent-atl3-1.xx.fbcdn.net^
 ||scontent-atl3-2.xx.fbcdn.net^
-||photobooth.cdn.sports.ru^
+#||photobooth.cdn.sports.ru^
 ||www.cy4ki.com^
 ||www.4everproxy.com^
 ||qc.4everproxy.com^

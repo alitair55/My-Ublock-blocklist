@@ -833,3 +833,6 @@
 ||leaks.im^
 ||cinemaindoxxi.net^
 ||liferampup.com^
+||mail.uploadonall.com^
+||proxylist.nsspot.net^
+||proxy.diggingforfire.com^

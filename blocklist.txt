@@ -837,3 +837,6 @@
 ||mail.uploadonall.com^
 ||proxylist.nsspot.net^
 ||proxy.diggingforfire.com^
+||kino-tv.co^
+||eufeet.com^
+||simpchat.eufeet.com^

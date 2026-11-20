@@ -840,3 +840,5 @@
 ||kino-tv.co^
 ||eufeet.com^
 ||simpchat.eufeet.com^
+||wowsliv.ru^
+||suikachallenge.com^

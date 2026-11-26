@@ -855,3 +855,5 @@
 ||mostlytrend.com^
 ||dekuinu.com^
 ||alinarai.net^
+||gossipsdiary.com^
+||paperblog.com^

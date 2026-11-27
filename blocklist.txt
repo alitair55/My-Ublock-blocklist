@@ -859,4 +859,6 @@
 ||paperblog.com^
 ||simenssofia.com^
 ||slitaya.info^
-thronly.com
+||thronly.com^
+||proxyarab.com^
+||hidester.one^
